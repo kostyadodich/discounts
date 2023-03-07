@@ -5,6 +5,7 @@ go 1.19
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/uuid v1.3.0 // indirect
+	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/ozontech/allure-go/pkg/allure v0.6.5 // indirect
 	github.com/ozontech/allure-go/pkg/framework v0.6.20 // indirect
 	github.com/ozontech/cute v0.1.11 // indirect
